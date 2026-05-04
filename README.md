@@ -4,7 +4,7 @@
 
 # Basma Sabry
 
-**Backend Engineer · CS Student · Builder**
+**Backend Engineer · Builder**
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=distributed+systems+%2F+backend+%2F+cloud;systems+programming+at+heart+%E2%9A%99%EF%B8%8F;adaptable+across+the+stack+%E2%80%94+tech+is+tech;always+on+to+the+next+hard+thing)](https://git.io/typing-svg)
 
@@ -47,11 +47,7 @@
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Basma-90/Basma-90/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Basma-90/Basma-90/output/github-contribution-grid-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Basma-90/Basma-90/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Basma-90&theme=react-dark&hide_border=true&area=true" width="100%"/>
 
 <br/>
 
