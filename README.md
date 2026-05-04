@@ -34,8 +34,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Basma-90&show_icons=true&theme=github_dark&hide_border=true&hide_title=true&count_private=true&icon_color=58A6FF&cache_seconds=1800" height="155"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Basma-90&layout=compact&theme=github_dark&hide_border=true&langs_count=6&cache_seconds=1800" height="155"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Basma-90&theme=github_dark" height="155"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Basma-90&theme=github_dark" height="155"/>
 
 <br/>
 
